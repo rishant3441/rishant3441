@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishan Thangaraj</h1>
-<h3 align="center">A passionate machine-learning and game-dev developer from Florida</h3>
+<h3 align="center">A passionate machine-learning and game developer from Florida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishant3441&label=Profile%20views&color=0e75b6&style=flat" alt="rishant3441" /> </p>
 
